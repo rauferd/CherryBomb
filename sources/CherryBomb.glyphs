@@ -1,5 +1,5 @@
 {
-.appVersion = "1349";
+.appVersion = "1365";
 classes = (
 {
 automatic = 1;
@@ -42,7 +42,7 @@ value = (
 );
 }
 );
-date = "2020-12-04 05:57:13 +0000";
+date = "2025-06-17 14:11:59 +0000";
 designer = satsuyako;
 designerURL = "https://satsuyako.com/";
 disablesAutomaticAlignment = 1;
@@ -41516,13 +41516,13 @@ unicode = 0324;
 },
 {
 glyphname = commaaccentcomb;
-lastChange = "2019-11-05 12:43:21 +0000";
+lastChange = "2025-06-17 14:12:56 +0000";
 layers = (
 {
 components = (
 {
-name = acute;
-transform = "{1, 0, 0, 1, 0, -925}";
+name = comma;
+transform = "{0.89286, 0, 0, 0.89286, 177, -238}";
 }
 );
 hints = (
@@ -51755,5 +51755,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 4;
-versionMinor = 100;
+versionMinor = 101;
 }
